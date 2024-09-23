@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webbuzzapp/static/css/main.b79c9a70.css",
+    "main.js": "/webbuzzapp/static/js/main.c8804fc6.js",
+    "index.html": "/webbuzzapp/index.html",
+    "main.b79c9a70.css.map": "/webbuzzapp/static/css/main.b79c9a70.css.map",
+    "main.c8804fc6.js.map": "/webbuzzapp/static/js/main.c8804fc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79c9a70.css",
+    "static/js/main.c8804fc6.js"
+  ]
+}
